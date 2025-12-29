@@ -1,0 +1,1 @@
+This folder is for icons (e.g., .svg).

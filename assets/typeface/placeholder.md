@@ -1,0 +1,1 @@
+This folder is for local font files if needed.

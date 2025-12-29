@@ -1,0 +1,13 @@
+
+{
+  "name": "interactive-fluid-trails",
+  "version": "1.0.0",
+  "description": "A fluid dynamics simulation with Three.js and React.",
+  "type": "module",
+  "scripts": {
+    "start": "serve"
+  },
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
+}
