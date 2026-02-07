@@ -41,3 +41,6 @@ The application relies on an external `importmap` (`external_importmap.js`) to l
 ├── noteBook.md
 └── README.md
 ```
+
+
+https://ai.studio/apps/drive/1ga3vidf9TU_r7ubZ6pPPBcNDJPCjDF7I?fullscreenApplet=true
